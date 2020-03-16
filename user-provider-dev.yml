@@ -23,4 +23,4 @@ eureka:
     #获取ip地址而不是主机名
     prefer-ip-address: true
 test: 
-  name: lisi
+  name: wangwu
